@@ -1,3 +1,4 @@
-a = 120
-b = 234
+a = 89
+b = 927
+s = 'Jye loves Nann'
 print(a + b)
